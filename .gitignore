@@ -1,0 +1,6 @@
+.env
+*.png
+*.pdf
+*.j2
+analyze_video.ipynb
+*.txt

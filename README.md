@@ -1,7 +1,7 @@
 # vision-llm-lab
 Lab for LLM vision capabilities
 
-# Notes for Prompt Evaluator configuration -  
+# How to configure Prompt Evaluator?  
 1. Create a .env file with following environment variables and their values:  
 OPENAI_API_KEY=api key for Azure OpenAI (AOAI) service  
 OPENAI_API_BASE=Endpoint for AOAI service  
@@ -12,7 +12,10 @@ GPT4O_MODEL_DEPLOYMENT_NAME=AOAI model deployment name
 
 3. Save prompt_to_evaluate.j2.sample as prompt_to_evaluate.j2 . This will contain the prompt you want to evaluate.  
 
-# Prompt evaluation output:
+# How to run Prompt Evaluator? 
+Run it with "python prompt-evaluator.py"  
+
+# What to expect as Prompt Evaluator output?  
 There are 2 responses you can expect.  
 1. A file named evaluation_result.txt will be created which contains prompt review qualitative details and the suggested prompt revision.  
 2. On console, it will show a report with score, e.g., shown below:  

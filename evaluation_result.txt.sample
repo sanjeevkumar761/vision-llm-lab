@@ -1,0 +1,21 @@
+**Review of the Prompt:**
+
+1. **Clarity**: The prompt is clear in specifying the problem (lag with multiple browser tabs open) and the context (2019 MacBook Pro running macOS Monterey). It also clearly asks for troubleshooting steps and a prioritized list.
+
+2. **Conciseness**: The prompt is concise and to the point, without unnecessary information.
+
+3. **Completeness**: The prompt is mostly complete, but it could benefit from specifying the browser being used, as different browsers may have different troubleshooting steps.
+
+4. **Grounding**: The prompt is well-grounded in a realistic scenario that a tech support specialist might encounter.
+
+5. **Correctness**: The prompt is correct in its request and context.
+
+**Revised Prompt:**
+
+"As a tech support specialist, I need help troubleshooting my 2019 MacBook Pro running macOS Monterey, which is experiencing lag when I have multiple browser tabs open. Could you provide a prioritized list of troubleshooting steps? Please specify if the steps differ for different browsers like Safari, Chrome, or Firefox."
+
+**Explanation of Revisions:**
+
+1. **Added Specificity**: By asking for browser-specific steps, the prompt becomes more complete and tailored to the user's needs.
+2. **Maintained Clarity and Conciseness**: The revised prompt remains clear and concise while adding necessary details.
+3. **Grounding and Correctness**: The revised prompt continues to be grounded in a realistic scenario and correctly frames the request.

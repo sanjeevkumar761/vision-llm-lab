@@ -1,5 +1,6 @@
-# vision-llm-lab
-Lab for LLM vision capabilities
+# Open Your Eyes (OYE) 
+## Vision LLMs Lab  
+Lab to explore LLM vision capabilities  
 
 # How to configure Prompt Evaluator?  
 1. Create a .env file with following environment variables and their values:  
